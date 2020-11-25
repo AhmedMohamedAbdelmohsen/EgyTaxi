@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106064837504",
+    "firebase_url": "https://egy-taxi.firebaseio.com",
+    "project_id": "egy-taxi",
+    "storage_bucket": "egy-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106064837504:android:aca74d40654029fc0a5f65",
+        "android_client_info": {
+          "package_name": "com.ahmedabdelmohsen.egytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106064837504-ohcrih5u2vtacjcdg8np8a6ratavgmrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedabdelmohsen.egytaxi",
+            "certificate_hash": "a260befc32e950f60bc24a3e84ab80ea8a232076"
+          }
+        },
+        {
+          "client_id": "106064837504-52as8n1jmpr3vsvguod9eudb7e5301ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuVJdpctnY1X_O-JRDlJ48UFgWYi_ru2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106064837504-52as8n1jmpr3vsvguod9eudb7e5301ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
